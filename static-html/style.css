@@ -1,0 +1,23 @@
+/* CSS Document */
+*{ margin:0; padding:0;}
+a{ color:#333333;text-decoration:none;}
+a:hover{text-decoration:underline; color:red;}
+body{ background:#F1FAF7; font-size:12px;}
+#all{ width:970px; padding:0 8px; background:#FFF; margin:0 auto;}
+#welcome{ line-height:24px; font-size:12px; background:#EFF4F7; border-bottom:1px solid #E6EDF1; margin-bottom:1px;}
+.banner{background-image: url(https://zhuanjia.su.bcebos.com/v1/zhuanjia/b1636199738704483224.png%40%21FN_ORIGIN?authorization=bce-auth-v1%2F43703cfbba5e4671aec7a59f2e968cbe%2F2021-11-06T11%3A55%3A38Z%2F1800%2Fhost%2Fe65473fcb27e4049b8d01b0d8ea6e526531e144194708dee12a95edfb74ef5b9);height: 200px;}
+.content p,.temAboutus p{ text-indent:2em; margin:5px 0;}
+.mesData tr{ background-color:#FFF;}
+.mesData td{height:30px; min-height:30px;}
+.mesData tr:hover{background-color:#F7F7F7;}
+.mesData th{ border-bottom:1px solid #CCC; line-height:23px;}
+table .vip{ color:red;}
+
+
+#nav{ background:url(https://zhuanjia.su.bcebos.com/v1/zhuanjia/b1636261846793991937.png%40%21FN_ORIGIN?authorization=bce-auth-v1%2F43703cfbba5e4671aec7a59f2e968cbe%2F2021-11-07T05%3A10%3A46Z%2F1800%2Fhost%2F8449cf226cd24bffd791390ca2cfc399b35dc33ac7435d3da47159780d198317); margin-bottom:8px; margin-top:-8px; height:31px; line-height:31px; font-size:13px;
+border-bottom:1px solid #4A8313;}
+#nav li{ float:left; list-style:none; white-space:nowrap; _width:4em; min-width:4em; padding:0 1em 0 18px; background:url(https://zhuanjia.su.bcebos.com/v1/zhuanjia/b1636261846505614466.png%40%21FN_ORIGIN?authorization=bce-auth-v1%2F43703cfbba5e4671aec7a59f2e968cbe%2F2021-11-07T05%3A10%3A46Z%2F1800%2Fhost%2Fa8254660cb0d3507413628d8e83d8c8064bde0438f2712185291bbe30b1f66ac) no-repeat; text-align:center;}
+#nav a{ color:#FFFFFF; font-weight:bold; }
+#welcome .fr{ width:970px; text-align:right; margin:0 auto;}
+#footer{ font-size:12px; line-height:25px; text-align:center; margin-top:8px;}
+#buttomLinks{ background-color:#F5F5F5;}

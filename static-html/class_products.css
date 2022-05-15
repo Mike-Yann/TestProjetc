@@ -1,0 +1,57 @@
+/* CSS Document */
+/*产品详细页*/
+#products{margin:auto;width:970px;}
+#products01{border:1px solid #CCCCCC;width:680px;float:left;margin-right:10px;font-size:14px;}
+#products02{width:670px;height:25px;line-height:25px;background-image:url(../products_images/products_menu_bk01.gif);border-bottom:1px solid #CCCCCC;padding-left:10px; font-size:12px;}
+#products03{width:680px;text-align:center;margin:5px 0px 5px 0px;}
+#products04{padding:10px;width:577px;}
+#products05{width:650px;height:22px;background-image:url(../products_images/products_jieshao_bk.gif);line-height:22px;font-weight:bold;padding-left:10px;}
+.products06{width:650px;height:24px;background:url(../products_images/products_jieshao_bk02.gif) no-repeat;line-height:24px;font-weight:bold;padding-left:10px;margin-top:10px;}
+.products06 a{ color:#3c9917; text-decoration:none;}
+.products06 a:hover {color:red; text-decoration:underline; font-weight:bold;}
+.products07{width:650px;line-height:24px;padding-left:10px;color:#333333; padding-top:10px;}
+.products08{width:660px;margin-top:10px;height:28px;}
+.products09{float:left;width:4px;height:28px;background-image:url(../products_images/guest_bk.gif);background-position:0px;}
+.products10{float:left;width:652px;height:28px;line-height:28px;font-weight:bold;color:#FFFFFF;background-image:url(../products_images/guest_bk02.gif);}
+.products11{float:left;width:4px;height:28px;background-image:url(../products_images/guest_bk.gif);background-position:4px;}
+#products12{clear:both;width:658px;background-image:url(../products_images/guest_bk03.gif);border-left:1px solid #22a508;border-right:1px solid #22a508;border-bottom:1px solid #22a508; font-size:12px;}
+#products13{width:277px;float:left; overflow:hidden;}
+#products14{width:275px;height:27px;line-height:27px;background-image:url(../products_images/products_menu_bk02.gif)}
+#products15{width:339px;padding:10px;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC;margin-bottom:10px;}
+.products16{line-height:27px;border-bottom:1px dotted #CCCCCC}
+#products17{width:277px;height:27px;line-height:27px;background-image:url(../products_images/products_menu_bk02.gif)}
+.products18{color:#FFFFFF;float:left;margin-left:13px;}
+.products19{color:#5ea712;float:left;margin-left:10px;}
+.products19 a{ color:#5ea712; text-decoration:none;}
+.products19 a:hover{ color:#5ea712; text-decoration:underline;}
+.products20{width:272px;padding-bottom:10px;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC;margin-bottom:10px; padding-left:3px;}
+.products21{margin:10px 3px 0px 8px;float:left;width:120px;height:113px; display:inline;}
+.products21 img{vertical-align:bottom; border:1px solid #ccc; padding:2px;}
+.products21 span a{ text-align:center; line-height:20px; display:block}
+.products22{width:275px;padding:5px 0 10px 0;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC;margin-bottom:10px; line-height:24px;}
+.products22 li{ float:left; border-bottom:1px dashed #e8e6e8; padding:0 3px 0 3px; width:262px;}
+/*最新产品*/
+.products23{width:275px;padding:5px 0 10px 0;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC;margin-bottom:10px; line-height:24px;}
+.products23 li{ float:left; border-bottom:1px dashed #e8e6e8; margin:0 3px 0 3px; width:262px; overflow:hidden;}
+/*最新产品*/
+.margin{ margin-bottom:10px; padding:2px;}
+
+.vip a{color:Red; text-decoration:none;}
+.vip a:hover{color:Red; text-decoration:underline;}
+
+h1{color:#3c9917;}
+h1 a{color:#3c9917; text-decoration:none;}
+h1 a:hover{color:#3c9917; text-decoration:underline;}
+/*产品详细页*/
+/*头部banner*/
+.banner{width:970px;height:200px;margin-bottom: 8px;position: relative;}
+.banner img{ vertical-align:bottom;}
+.bannerH{position:absolute; top:20px;left:40px; width:900px; height:150px;font-family: "Microsoft YaHei","黑体";}
+.bannerH h2 {color: #d83300;font-size: 32px;margin:0px;}
+.bannerH h2 a {	color: #d83300;text-decoration: none;}
+.bannerH h2 a:hover {color: #009900;text-decoration: underline;}
+.bannerH h3 {color: #d83300;font-size: 22px;margin:5px 0px 0px 0px;}
+.bannerH h3 a {color: #d83300;text-decoration: none;}
+.bannerH h3 a:hover {color:#009900;text-decoration: underline;}
+/*头部banner*/
+.tousu{background-image:url(../products_images/tousu00.gif); width:575px; height:40px;}

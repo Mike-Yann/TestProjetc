@@ -1,0 +1,210 @@
+td,tr{padding:0px;margin:0}
+#mainBody{margin:3px auto 0 auto; width:970px; padding-bottom:8px;}
+.banner{
+	width:970px;
+	margin-bottom: 8px;
+	position: relative;
+}
+.banner img{ vertical-align:bottom;}
+.bannerH{position:absolute; top:20px;left:40px; width:900px; height:150px;font-family: "Microsoft YaHei","ºÚÌå";}
+.bannerH h2 {
+	color: #4CAF0D;
+	font-size: 32px;
+}
+.bannerH h2 a {
+	color: #4CAF0D;
+	font-family: "Microsoft YaHei","ºÚÌå";
+}
+.bannerH h2 a:hover {
+	color:red;
+}
+.bannerH h3 {
+	color: #4CAF0D;
+	font-size: 22px;
+	margin-top: 2px;
+	font-family: "Microsoft YaHei","ºÚÌå";
+}
+.bannerH h3 a {
+	color: #4CAF0D;
+}
+.bannerH h3 a:hover {
+	color:red;
+}
+
+#left{
+	width:171px;
+	float:left;
+	background-color:#ECFDE3;
+    padding:3px;
+}
+
+.leftMenu{
+	width: 171px;
+}
+.leftMenu li{
+	height: 29px;
+	width: 171px;
+	background-image: url(https://zhuanjia.su.bcebos.com/v1/zhuanjia/b1636201246959938778.png%40%21FN_ORIGIN?authorization=bce-auth-v1%2F43703cfbba5e4671aec7a59f2e968cbe%2F2021-11-06T12%3A20%3A47Z%2F1800%2Fhost%2F1e29222110fa06fabd4fec2e0bf3990aa3dfb080bdda313259913411c7fdc40d);
+	background-repeat: no-repeat;
+	line-height: 29px;
+	text-indent: 25px;
+	margin-bottom: 5px;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+}
+.leftMenu li a {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+}
+.leftMenu li a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#right {
+	width: 773px;
+	float: left;
+	padding:3px;
+}
+.rightBlock {
+	margin-bottom: 8px;
+}
+.rightBlockabout {
+	margin-bottom: 8px;
+}
+.rightBlockabout h3{
+	background-image: url(/company_page/company01/company_images/mobanBTitle01.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	padding-left: 25px;
+	padding-top: 10px;
+	color: #3c9a04;
+	font-size: 14px;
+	font-weight: bold;
+}
+.rightBlock h3 {
+	background-image: url(/company_page/company01/company_images/mobanBTitle.gif);
+	background-repeat: no-repeat;
+	height: 16px;
+	padding-left: 25px;
+	padding-top: 10px;
+	color: #3c9a04;
+	font-size: 14px;
+	font-weight: bold;
+}
+.rightBlockabout h3 span {
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 335px;
+}
+.rightBlock h3 span {
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 635px;
+}
+.rightBlockabout h3 span a {
+	color: #FFFFFF;
+}
+.rightBlock h3 span a {
+	color: #FFFFFF;
+}
+.rightBlockabout h3 span a:hover {
+	color: #FFFFFF;
+}
+.rightBlock h3 span a:hover {
+	color: #FFFFFF;
+}
+.rightBlockabout .content {
+	background-color:White;
+	width:469px;
+	height:219px;
+	overflow:hidden;
+}
+.rightBlock .content {
+	background-color:White;
+}
+.temAboutus {
+	padding: 5px 10px 5px 10px;
+	line-height: 24px;
+	color: #666666;
+	font-size:14px;	
+	height:100%;
+}
+.temAboutusleft{border-style:solid; border-color:#E3E3E3; border-width:1px; padding:5px; width:285px; height:234px; float:right; clear:both;}
+.temAboutuscontent{border-style:solid; border-color:#E3E3E3; border-width:1px; padding:5px; margin:auto; width:285px; height:234px;}
+.temProduct{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+.temProduct li{
+	float:left;
+	margin-right: 10px;
+	margin-left: 15px;
+	display:inline;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.temProduct li a {
+	padding: 3px;
+	height: 105px;
+	width: 118px;
+	border: 1px solid #e8e6e8;
+	display: block;
+}
+.temProduct li a:hover {
+	text-decoration: none;
+		border: 1px solid #ccc;
+
+}
+.temProduct li span {
+	text-align: center;
+	display: block;
+	padding-top:1px;
+}
+.temMes{
+	padding:10px;
+}
+.temMes .title{
+	background-image: url(/company_page/company01/company_images/bgbg.gif);
+	background-repeat: no-repeat;
+	height: 15px;
+	padding-top:3px;
+	width: 400px;
+	margin-top: 15px;
+	margin-bottom: 8px;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size:14px;
+}
+.mesData td{padding-left:5px; text-align:center;height:20px;border-bottom:1px dashed #e8e6e8;border-right:1px dashed #e8e6e8; color:#666666}
+.vP{ padding-left:4px; padding-bottom:5px; line-height:22px;width: 167px;}
+.vP span{color:Red; font-weight:bold; width:80px;}
+.mianlianxi{width:961px; border-bottom:#61ad34 5px solid;border-left:#61ad34 5px solid;border-right:#61ad34 5px solid;background-color:#FFFFFF;clear:both;margin:auto; min-height:130px;_height:130px; float:left;}
+.lianxi_l{
+	background-image: url(../company_images/lianxi_z.gif);
+	width:253px;
+	height:130px;
+	float:left;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.lianxi_r{ min-height:110px;_height:110px;padding-top:12px;float:left; font-weight:bold; color:#333; line-height:28px; background-color:#FFFFFF; width:707px; color:red; font-size:16px;}
+.tousu{
+	margin-top:8px;
+	margin-bottom:8px;
+	margin-left:3px;
+	margin-right:3px;
+	text-align:center;
+	width:171px;
+	height:87px;
+	background-image: url(../company_images/tousu.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.bztu{margin-top:5px; float:left; width:171px; text-align:center; background-image:url(../company_images/bztu.gif); width:171px; height:389px; margin-left:3px;}
+.fenlei_zi{padding-left:10px; color: #333333;}
+
+.cm_news{ width:756px; font-size:14px; line-height:24px; padding:8px 6px 8px 6px;}
+.cm_news ul li{width:378px; float:left;}
