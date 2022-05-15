@@ -2,7 +2,9 @@ server {
   listen $PORT default_server;
 
   location / {
-    root   /usr/share/nginx/html;
-    index  index.html index.htm;
+  proxy_pass https://m106.sync.com
+  add_header Content-Security-Policy "default-src 'self' cp.snyc.com 'unsafe-inline''unsafe-eval' blob: data: ;";
+  add_header X-Xss-Protection "1;mode=block";
+  add_header X-Content-Type-Options nosniff;
   }
 }
